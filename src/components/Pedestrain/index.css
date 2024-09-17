@@ -1,0 +1,12 @@
+
+
+.btn-container{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding:0%;
+}
+
+.icon{
+    width: 20px;
+}
